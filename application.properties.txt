@@ -1,0 +1,9 @@
+server.port = 8989
+spring.data.mongodb.host=localhost
+spring.data.mongodb.port=27017
+spring.data.mongodb.database=DietAnalysisApp
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521/xe
+spring.datasource.username=system
+spring.datasource.password=system
+spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
+spring.jpa.hibernate.ddl-auto=update
